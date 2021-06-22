@@ -1,0 +1,65 @@
+.title01 {
+    text-align: center;
+    font-size: 40px;
+    font-weight: 900;
+}
+
+.title02 {
+    text-align: center;
+    font-size: 24px;
+    font-weight: bolder;
+}
+
+header {
+    height: 25%;
+}
+
+main {
+    height: 60%;
+}
+
+table,
+tr,
+td,
+th {
+    border: 1px solid;
+    border-spacing: 0px;
+}
+
+
+
+.t_width_100 {
+    width: 100px;
+    height: 40px;
+}
+
+.t_width_125 {
+    width: 125px;
+    height: 40px;
+}
+
+.t_width_450 {
+    width: 450px;
+}
+
+.t_width_600 {
+    width: 600px;
+}
+
+.t_height_160 {
+    height: 160px;
+}
+
+.t_head {
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    background-color: RGB(221, 231, 245);
+}
+
+.t_dataset {
+    font-size: 14px;
+    padding: 5px;
+    height: 40px;
+    text-align: center;
+}

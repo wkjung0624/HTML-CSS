@@ -1,0 +1,9 @@
+.bg-img {
+    background-color: rgba(0, 0, 0, 0.932);
+    background-image: url('Resource/au_bg.jpg');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    z-index: -10;
+    /* 출처: https://claire-design.tistory.com/entry/css-배경이미지-투명하게-Background-image-opacity [Claire.K Art Designer] */
+}
